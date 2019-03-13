@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Copies of old / original files
+.old
+.edit
+.orig
+
+# Sanity project
+shop
