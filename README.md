@@ -1,3 +1,7 @@
+# Web Shop
+
+[Demo](Demo)
+
 ## Quickstart on local
 
 ``` bash
@@ -12,7 +16,7 @@ Tips:
 - Make sure you are running on http://localhost:3000. If not sanity and snipcart will fail due to CORS origins.
 - Vue.js requires a recent Node version so if it fails on startup you might need an upgrade.
 
-## Using your own sanity.io data
+## Using your own Sanity.io data
 
 - Install Sanity CLI: `npm install -g @sanity/cli`.
 - Initialize a new project: `sanity init`.
