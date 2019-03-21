@@ -1,6 +1,6 @@
 # Web Shop
 
-[Demo](Demo)
+[Demo](https://jsnspr-ror-stripe-job-board.herokuapp.com/)
 
 ## Quickstart on local
 
