@@ -2,7 +2,7 @@
 
 Vue.js + Nuxt.js e-commerce site using Sanity (headless CMS) for content, Snipcart for cart checkout.
 
-[Demo](https://jsnspr-ror-stripe-job-board.herokuapp.com/)
+[Demo](https://jsnspr-vue-nuxt-sanity-snipcart-shop.netlify.com/)
 
 ## Quickstart on local
 
